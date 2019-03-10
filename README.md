@@ -21,7 +21,7 @@ Reinforcement Learning (Lecture 14 @ Stanf), FF Li: [cs231n](http://cs231n.stanf
 
 Python/Numpy Tutorial for Computer Vision (Lecture @ Stanf), J. Johnson: [cs231n](http://cs231n.github.io/python-numpy-tutorial/)
 
- Adversarial Machine Learning Reading List (Researcher Blog), N. Carlini: [nicholas.carlini(https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
+ Adversarial Machine Learning Reading List (Researcher Blog), N. Carlini: [nicholas.carlini](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
 
 # interesting people
 [Rocky Duan](http://rockyduan.com/) characterizes the goals/achievements I strive for in terms of industry success 
@@ -34,8 +34,7 @@ sensory equipment. Image for a second that we use ML for taste ID. Could we cook
 the gradient of the taste buds?
 
 [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/) He's in charge of ML in tesla autopilot... I hope he doesn't know 
-about PGD so I can get a [free tesla & internship ](https://www.businessinsider.com/tesla-model-3-reward-bug-bounty-research-
-program-2019-1)
+about PGD so I can get a [free tesla & internship ](https://www.businessinsider.com/tesla-model-3-reward-bug-bounty-research-program-2019-1)
 
 
 
