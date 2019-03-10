@@ -3,10 +3,10 @@ most recent update: 3-10-19
 # learning_resources
 PDF's &amp; Links to lecture slides/papers/topics helpful for learning RL/ML/DL/Scientific Computing in my other repos
 
-# Scientific Computing/Applied Linear Algebra
+### Scientific Computing/Applied Linear Algebra
 (too many links. [B. Welfert](https://math.la.asu.edu/~bdw/) has made this semester a tough one.)
 
-# Reinforcement Learning & Classic Learning concepts
+### Reinforcement Learning & Classic Learning concepts
 Neural Networks for Machine Learning (Lecture 6a @ UToronto), G. Hinton: [cs.tornonto.edu](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 
 On the importance of initialization and momentum in deep learning (paper), G. Hinton: [cs.tornonto.edu](http://www.cs.toronto.edu/%7Ehinton/absps/momentum.pdf)
@@ -23,7 +23,7 @@ Python/Numpy Tutorial for Computer Vision (Lecture @ Stanf), J. Johnson: [cs231n
 
  Adversarial Machine Learning Reading List (Researcher Blog), N. Carlini: [nicholas.carlini](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
 
-# interesting people
+### interesting people
 [Rocky Duan](http://rockyduan.com/) characterizes the goals/achievements I strive for in terms of industry success 
 post-graduate work. I stumbled upon him after looking at OpenAI's toolkits when looking for a way to visualize successful 
 learning in my RL problems. 
