@@ -26,7 +26,6 @@ Python/Numpy Tutorial for Computer Vision (Lecture @ Stanf), J. Johnson: [cs231n
 
 ### Robotics
 Fast, Autonomous Flight in GPS-Denied andCluttered Environments, K. Mohta: [arXiv](https://arxiv.org/pdf/1712.02052.pdf).
-
 Includes powerpoint that is my report on this for [jdas](https://web.asu.edu/jdas/home) and pdf
 
 ### Additional
