@@ -1,4 +1,3 @@
-most recent update: 3-10-19
 
 # learning_resources
 PDF's &amp; Links to lecture slides/papers/topics helpful for learning RL/ML/DL/Scientific Computing in my other repos
