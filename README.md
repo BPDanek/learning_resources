@@ -22,7 +22,8 @@ Reinforcement Learning (Lecture 14 @ Stanf), FF Li: [cs231n](http://cs231n.stanf
 Python/Numpy Tutorial for Computer Vision (Lecture @ Stanf), J. Johnson: [cs231n](http://cs231n.github.io/python-numpy-tutorial/)
 
  Adversarial Machine Learning Reading List (Researcher Blog), N. Carlini: [nicholas.carlini](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
-
+ 
+ Human Level Control Through Deep Reinforcement Learning, V. Mnih: [pdf@stanf](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
 
 ### Robotics
 Fast, Autonomous Flight in GPS-Denied andCluttered Environments, K. Mohta: [arXiv](https://arxiv.org/pdf/1712.02052.pdf).
