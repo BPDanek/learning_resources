@@ -20,26 +20,25 @@ Reinforcement Learning (Lecture 14 @ Stanf), FF Li: [cs231n](http://cs231n.stanf
 
 Python/Numpy Tutorial for Computer Vision (Lecture @ Stanf), J. Johnson: [cs231n](http://cs231n.github.io/python-numpy-tutorial/)
 
- Adversarial Machine Learning Reading List (Researcher Blog), N. Carlini: [nicholas.carlini](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
+Adversarial Machine Learning Reading List (Researcher Blog), N. Carlini: [nicholas.carlini](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
  
- Human Level Control Through Deep Reinforcement Learning, V. Mnih: [pdf@stanf](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
+Human Level Control Through Deep Reinforcement Learning, V. Mnih: [pdf@stanf](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
+ 
+Deep Learning, Y. LeCun & Y. Bengio & G. Hinton: [nature](https://www.nature.com/articles/nature14539)
+ 
+Backpropagation Algorithm (Derivation), {several contributors}: [brilliant.org](https://brilliant.org/wiki/backpropagation/)
+ 
+### Time Series Classification/Dynamic Programming
+Time Series Classification, a [dedicated homepage](http://www.timeseriesclassification.com/index.php), which has datasets, algorithms, and researchers. This site put me on a serious spiral.
+
+Deep learning for time series classification: a review, H. Fawaz: [arXiv](https://arxiv.org/abs/1809.04356)
+
+Dynamic Programming Algorithm Optimization for Spoken Word Recognition, H. Sakoe & S. Chiba: [irit.fr](https://www.irit.fr/~Julien.Pinquier/Docs/TP_MABS/res/dtw-sakoe-chiba78.pdf)
+
+How DTW (Dynamic Time Warping) algorithm works, T. Körting: [youtube](https://www.youtube.com/watch?v=_K1OsqCicBY)
+
+Programatically understanding dynamic time warping (DTW) ipynb, N. Batra: [github](https://nipunbatra.github.io/blog/2014/dtw.html)
 
 ### Robotics
 Fast, Autonomous Flight in GPS-Denied andCluttered Environments, K. Mohta: [arXiv](https://arxiv.org/pdf/1712.02052.pdf).
 Includes powerpoint that is my report on this for [jdas](https://web.asu.edu/jdas/home) and pdf
-
-### Additional
-[Rocky Duan](http://rockyduan.com/) characterizes the goals/achievements I strive for in terms of industry success 
-post-graduate work. I stumbled upon him after looking at OpenAI's toolkits when looking for a way to visualize successful 
-learning in my RL problems. 
-
-[Nicholas Carlini](https://nicholas.carlini.com/) Obviously a successful PhD @ berk, but I particularily like their interest
-with/in alternative adversarial attacks methods. The audio based attacks made me wonder if we could attack other natural 
-sensory equipment. Image for a second that we use ML for taste ID. Could we cook/bake a specific substance that would attack 
-the gradient of the taste buds?
-
-[Andrej Karpathy](https://cs.stanford.edu/people/karpathy/) He's in charge of ML in tesla autopilot... I hope he doesn't know 
-about PGD so I can get a [free tesla & internship ](https://www.businessinsider.com/tesla-model-3-reward-bug-bounty-research-program-2019-1)
-
-
-
