@@ -1,9 +1,8 @@
-*** needs major update ***
 # learning_resources
-PDF's &amp; Links to lecture slides/papers/topics helpful for learning RL/ML/DL/Scientific Computing in my other repos
+PDF's &amp; Links to lecture slides/papers/topics helpful for learning RL/ML/DL/Scientific Computing in my other repos. This is not a complete list, but it does have some gems I found very useful in my own journey. 
 
 ### Scientific Computing/Applied Linear Algebra
-(too many links. [B. Welfert](https://math.la.asu.edu/~bdw/) has made this semester a tough one.)
+(too many links. [B. Welfert](https://math.la.asu.edu/~bdw/) has made MAT 421 F2019, Numerical Methods a tough one.)
 
 ### Reinforcement Learning & Classic Learning concepts
 Neural Networks for Machine Learning (Lecture 6a @ UToronto), G. Hinton: [cs.tornonto.edu](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
