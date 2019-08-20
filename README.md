@@ -26,6 +26,10 @@ Human Level Control Through Deep Reinforcement Learning, V. Mnih: [pdf@stanf](ht
 Deep Learning, Y. LeCun & Y. Bengio & G. Hinton: [nature](https://www.nature.com/articles/nature14539)
  
 Backpropagation Algorithm (Derivation), {several contributors}: [brilliant.org](https://brilliant.org/wiki/backpropagation/)
+
+RL by David Silver
+
+AlexNet, VGG-16
  
 ### Time Series Classification/Dynamic Programming
 Time Series Classification, a [dedicated homepage](http://www.timeseriesclassification.com/index.php), which has datasets, algorithms, and researchers. This site put me on a serious spiral.
